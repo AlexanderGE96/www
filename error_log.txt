@@ -1,0 +1,100 @@
+[27-Feb-2017 23:28:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[27-Feb-2017 23:28:59 UTC] PHP Stack trace:
+[27-Feb-2017 23:28:59 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[27-Feb-2017 23:28:59 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[27-Feb-2017 23:28:59 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
+[27-Feb-2017 23:29:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[27-Feb-2017 23:29:08 UTC] PHP Stack trace:
+[27-Feb-2017 23:29:08 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[27-Feb-2017 23:29:08 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[27-Feb-2017 23:29:08 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
+[27-Feb-2017 23:29:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[27-Feb-2017 23:29:11 UTC] PHP Stack trace:
+[27-Feb-2017 23:29:11 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[27-Feb-2017 23:29:11 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[27-Feb-2017 23:29:11 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
+[27-Feb-2017 23:30:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[27-Feb-2017 23:30:29 UTC] PHP Stack trace:
+[27-Feb-2017 23:30:29 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[27-Feb-2017 23:30:29 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[27-Feb-2017 23:30:29 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
+[27-Feb-2017 23:30:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[27-Feb-2017 23:30:31 UTC] PHP Stack trace:
+[27-Feb-2017 23:30:31 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[27-Feb-2017 23:30:31 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[27-Feb-2017 23:30:31 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
+[27-Feb-2017 23:30:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[27-Feb-2017 23:30:35 UTC] PHP Stack trace:
+[27-Feb-2017 23:30:35 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[27-Feb-2017 23:30:35 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[27-Feb-2017 23:30:35 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
+[27-Feb-2017 23:30:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[27-Feb-2017 23:30:39 UTC] PHP Stack trace:
+[27-Feb-2017 23:30:39 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[27-Feb-2017 23:30:39 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[27-Feb-2017 23:30:39 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
+[27-Feb-2017 23:30:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[27-Feb-2017 23:30:42 UTC] PHP Stack trace:
+[27-Feb-2017 23:30:42 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[27-Feb-2017 23:30:42 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[27-Feb-2017 23:30:42 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
+[27-Feb-2017 23:30:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[27-Feb-2017 23:30:46 UTC] PHP Stack trace:
+[27-Feb-2017 23:30:46 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[27-Feb-2017 23:30:46 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[27-Feb-2017 23:30:46 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
+[27-Feb-2017 23:30:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[27-Feb-2017 23:30:50 UTC] PHP Stack trace:
+[27-Feb-2017 23:30:50 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[27-Feb-2017 23:30:50 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[27-Feb-2017 23:30:50 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
+[27-Feb-2017 23:30:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[27-Feb-2017 23:30:56 UTC] PHP Stack trace:
+[27-Feb-2017 23:30:56 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[27-Feb-2017 23:30:56 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[27-Feb-2017 23:30:56 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
+[27-Feb-2017 23:30:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[27-Feb-2017 23:30:59 UTC] PHP Stack trace:
+[27-Feb-2017 23:30:59 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[27-Feb-2017 23:30:59 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[27-Feb-2017 23:30:59 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
+[27-Feb-2017 23:31:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[27-Feb-2017 23:31:01 UTC] PHP Stack trace:
+[27-Feb-2017 23:31:01 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[27-Feb-2017 23:31:01 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[27-Feb-2017 23:31:01 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
+[27-Feb-2017 23:31:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[27-Feb-2017 23:31:03 UTC] PHP Stack trace:
+[27-Feb-2017 23:31:03 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[27-Feb-2017 23:31:03 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[27-Feb-2017 23:31:03 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
+[27-Feb-2017 23:31:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[27-Feb-2017 23:31:04 UTC] PHP Stack trace:
+[27-Feb-2017 23:31:04 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[27-Feb-2017 23:31:04 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[27-Feb-2017 23:31:04 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
+[27-Feb-2017 23:31:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[27-Feb-2017 23:31:17 UTC] PHP Stack trace:
+[27-Feb-2017 23:31:17 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[27-Feb-2017 23:31:17 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[27-Feb-2017 23:31:17 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
+[27-Feb-2017 23:37:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[27-Feb-2017 23:37:27 UTC] PHP Stack trace:
+[27-Feb-2017 23:37:27 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[27-Feb-2017 23:37:27 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[27-Feb-2017 23:37:27 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
+[27-Feb-2017 23:38:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[27-Feb-2017 23:38:05 UTC] PHP Stack trace:
+[27-Feb-2017 23:38:05 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[27-Feb-2017 23:38:05 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[27-Feb-2017 23:38:05 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
+[28-Feb-2017 00:42:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[28-Feb-2017 00:42:08 UTC] PHP Stack trace:
+[28-Feb-2017 00:42:08 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[28-Feb-2017 00:42:08 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[28-Feb-2017 00:42:08 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
+[01-Mar-2017 16:00:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\wamp64\www\config.inc.php on line 8
+[01-Mar-2017 16:00:01 UTC] PHP Stack trace:
+[01-Mar-2017 16:00:01 UTC] PHP   1. {main}() C:\wamp64\www\index.php:0
+[01-Mar-2017 16:00:01 UTC] PHP   2. include() C:\wamp64\www\index.php:51
+[01-Mar-2017 16:00:01 UTC] PHP   3. mysql_connect() C:\wamp64\www\config.inc.php:8
