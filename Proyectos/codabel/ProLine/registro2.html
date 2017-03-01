@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Formulario de resgitro</title>
+    <link rel="stylesheet" href="../ProLine/diseno.css">
+    <script src="../ProLine/validar.js"></script>
+
+    
+</head>
+
+<body>
+
+<form action="../ProLine/registrar.php" method="post" class="form_register" onsubmit="return validar();">
+   <h2 class="form_titulo">Registrate</h2>
+    <div class="contenedor_inputs">
+        <input type="text" id="nombre" name="nombre" placeholder="Nombre" class="input_100" required>
+        <input type="text" id="apellidos" name="apellidos" placeholder="Apellidos" class="input_100" required>
+        <input type="email" id="email" name="email" placeholder="Correo electronico" class="input_100" required>
+        <input type="text" id="usuario" name="usuario" placeholder="Usuario" class="input_100" required>
+        <input type="text" id="telefono" name="telefono" placeholder="Teléfono" class="input_100" required>
+        <input type="password" id="contrasena" name="contrasena" placeholder="contraseña" class="input_100" required>
+        <input type="submit" value="Registrar" class="btn_enviar" id="reset1">
+        <p class="olvidar">¿Olvidaste tu contraseña? <a href="#">Obten ayuda</a></p>
+    </div>
+</form>
+
+
+</body>
+</hmtl>
+   

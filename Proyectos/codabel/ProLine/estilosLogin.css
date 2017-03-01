@@ -1,0 +1,76 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+body{
+display: flex;
+     background-image: url(barberia3.jpg);
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+margin: 0;
+    min-height: 100vh;
+    font-family: "Segoe UI";
+}
+
+form{
+margin: auto;
+    width: 50%;
+    max-width: 500px;
+    background: rgba(0,0,0,0.80);
+    border-radius: 3px;
+    padding: 30px;
+    
+}
+
+h2{
+text-align: left;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 20px;
+    margin-top: -10px;
+    margin-left: -20px;
+    
+}
+input{
+margin-left: -20px;
+    display: block;
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 70%;
+    background: rgba(0,0,0,0);
+  
+}
+.input_text{
+border-bottom: solid white .1rem;
+border-left: none;
+    border-right: none;
+    border-top: none;
+    color:white;
+
+}
+
+input[type="submit"]{
+ width: 30%;
+    margin-top: 20px;
+    border-radius: 3px;
+    background:red;
+    border:none;
+    color: white;
+    cursor: pointer;
+    
+}
+input[type="submit"]:hover{
+background: rgb(245,71,58);
+}
+
+.olvidar{
+ color: white;
+    font-size: 12px;
+    margin-left: -25px;
+}
+a{
+text-decoration: none; 
+    color:blue
+}
